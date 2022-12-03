@@ -1,2 +1,2 @@
-# aoc22
+# aAOC22
 Advent of Code 2022 attempts 
