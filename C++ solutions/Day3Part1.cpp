@@ -12,7 +12,7 @@ int main(){
   while (getline(dataFile, s)) { //every line is a new sack
     //split into two partitions
     string cont1 = s.substr(0, s.length()/2);
-    string cont2 = s.substr(s.length()/2,s.length());
+    string cont2 = s.substr(s.length()/2, s.length()/2); // second argument is length, not end index
 
     for (int item = 0; item < cont1.length(); item ++){
       char c = cont1[item];
