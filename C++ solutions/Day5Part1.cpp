@@ -42,7 +42,6 @@ int main(){
     }
     
     //store and move char
-    vector<char> temp;
     for (int m=0; m<numbers[0]; m++){ //number of containers to move
       char moving = container[numbers[1]-1].back(); //store char
       container[numbers[1]-1].pop_back(); //delete char
