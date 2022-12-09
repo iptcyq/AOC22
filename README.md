@@ -20,6 +20,8 @@ Advent of Code 2022 attempts
 | Day 3/ Part 2 | ⭐ | -- |
 | Day 4/ Part 1 | -- | ⭐ |
 | Day 4/ Part 2 | -- | ⭐ |
+| Day 5/ Part 1 | ⭐ | -- |
+| Day 5/ Part 2 | -- | -- |
 
 
 ### Link(s):
