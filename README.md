@@ -22,8 +22,10 @@ Advent of Code 2022 attempts
 | Day 4/ Part 2 | -- | ⭐ |
 | Day 5/ Part 1 | ⭐ | -- |
 | Day 5/ Part 2 | ⭐ | -- |
-
+| Day 6/ Part 1 | ⭐ | -- |
+| Day 6/ Part 2 | ⭐ | -- |
 
 ### Link(s):
 - AOC website at https://adventofcode.com/2022
 - Temporary C++ Replit draft at https://replit.com/@iptcyq/AOC22-draft#main.cpp
+- Temporary Python Replit draft at https://replit.com/@iptcyq/AOC-python#main.py
