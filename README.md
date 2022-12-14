@@ -14,9 +14,14 @@ Advent of Code 2022 attempts
 
 #### Progress:
 
+<table>
+<tr><th> Days 1-5 </th><th> Days 6-10 </th></tr>
+<tr><td>
+
+
 | AOC Day/ Part | C++ | Python |
-| ------------- | --- | ------ |
-| Day 1/ Part 1 | ⭐ | ⭐ |
+| ------------- | --- | ------ |  
+| Day 1/ Part 1 | ⭐ | ⭐ |  
 | Day 1/ Part 2 | -- | ⭐ |
 | Day 2/ Part 1 | ★ | ⭐ |
 | Day 2/ Part 2 | -- | ⭐ |
@@ -26,12 +31,28 @@ Advent of Code 2022 attempts
 | Day 4/ Part 2 | -- | ⭐ |
 | Day 5/ Part 1 | ⭐ | -- |
 | Day 5/ Part 2 | ⭐ | -- |
+
+</td><td>
+
+| AOC Day/ Part | C++ | Python |
+| ------------- | --- | ------ |
 | Day 6/ Part 1 | ⭐ | -- |
 | Day 6/ Part 2 | ⭐ | -- |
+| Day 7/ Part 1 | ?? | -- |
+| Day 7/ Part 2 | -- | -- |
+| Day 8/ Part 1 | -- | -- |
+| Day 8/ Part 2 | -- | -- |
+| Day 9/ Part 1 | -- | -- |
+| Day 9/ Part 2 | -- | -- |
+| Day 10/ Part 1 | ⭐ | -- |
+| Day 10/ Part 2 | ★ | -- |
+
+</td></tr> </table>
 
 
 | Legend 🔑 | Character |
 | --------- | --------- | 
 | Complete | ⭐ |
 | Incomplete Attempt | ★ |
+| I have absolutely no clue | ?? |
 
