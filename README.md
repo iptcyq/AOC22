@@ -38,7 +38,7 @@ Advent of Code 2022 attempts
 | ------------- | --- | ------ |
 | Day 6/ Part 1 | ⭐ | -- |
 | Day 6/ Part 2 | ⭐ | -- |
-| Day 7/ Part 1 | ?? | -- |
+| Day 7/ Part 1 | ?? | ?? |
 | Day 7/ Part 2 | -- | -- |
 | Day 8/ Part 1 | -- | -- |
 | Day 8/ Part 2 | -- | -- |
@@ -46,6 +46,21 @@ Advent of Code 2022 attempts
 | Day 9/ Part 2 | -- | -- |
 | Day 10/ Part 1 | ⭐ | -- |
 | Day 10/ Part 2 | ★ | -- |
+
+</td><td>
+
+| AOC Day/ Part | C++ | Python |
+| ------------- | --- | ------ |
+| Day 11/ Part 1 | ★ | -- |
+| Day 11/ Part 2 | -- | -- |
+| Day 12/ Part 1 | -- | -- |
+| Day 12/ Part 2 | -- | -- |
+| Day 13/ Part 1 | -- | -- |
+| Day 13/ Part 2 | -- | -- |
+| Day 14/ Part 1 | -- | -- |
+| Day 14/ Part 2 | -- | -- |
+| Day 15/ Part 1 | -- | -- |
+| Day 15/ Part 2 | -- | -- |
 
 </td></tr> </table>
 
